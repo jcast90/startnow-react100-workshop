@@ -1,0 +1,12 @@
+.title {
+  padding: 15px;
+  border-bottom: 1px solid black;
+}
+.calculate {
+  background-color: blue;
+  height: 200px;
+}
+.results {
+  background-color: red;
+  height: 200px;
+}
